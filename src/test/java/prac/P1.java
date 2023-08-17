@@ -12,7 +12,6 @@ public class P1 {
 	public void stop()
 	{
 		System.out.println("done   ");
-		System.out.println("kkk");
 	}
 
 }
