@@ -6,7 +6,7 @@ public class P1 {
 	@Test
 	public void run()
 	{
-		System.out.println("done");
+		System.out.println("don e");
 	}
 	
 
