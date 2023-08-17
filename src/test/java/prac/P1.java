@@ -11,7 +11,8 @@ public class P1 {
 	@Test
 	public void stop()
 	{
-		System.out.println("done");
+		System.out.println("done   ");
+		System.out.println("kkk");
 	}
 	@Test
 	public void stop()
